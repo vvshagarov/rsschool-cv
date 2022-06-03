@@ -1,5 +1,3 @@
 # Viacheslav Shagarov
 
-
-
 ### Chief department
