@@ -21,7 +21,7 @@ Enthusiastic and motivated beginner in JavaScript, eager to embark on a journey 
 - Programming Languages: HTML5, CSS3, Python, JavaScrip.
 - Other Skills: Linux, Windows OS.
 
-##Code example
+## Code example
 
 ### Python Hello, World! example
 
