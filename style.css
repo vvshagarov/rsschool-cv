@@ -39,4 +39,5 @@ body {
 .nav-link {
     padding: 0 20px;
     line-height: 50px;
+    transition: 0.3s;
   }
