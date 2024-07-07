@@ -31,13 +31,13 @@ body {
 .container {
     max-width: 1440px;
     margin: 0 auto;
-    border: 1px solid red;
+    border: 1px solid rgb(119, 167, 42);
 }
 
 .main-container {
     max-width: 1440px;
     margin: 0 auto;
-    border: 1px solid red;
+    border: 1px solid rgb(119, 167, 42);
     display: flex;
     flex-wrap: wrap;
 }
@@ -72,6 +72,26 @@ body {
     text-decoration: none;
     transition: color 0.5s;
 }
-  .section-item a:hover {
+.section-item a:hover {
     color: #4d2323;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    color: #fff;
+}
+
+.rss {
+    width: 121px;
+    height: 45px;
+    background-image: url("./assets/img/logo/rs-school-logo.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.year {
+    background-color: black;
 }
